@@ -1,0 +1,11 @@
+indicator_name,aggregated_value,indicator_year,survey_name,aggregation_method
+dhs-mobile_subnational_rwa,39.91378036086052,#date+year,#survey+id,mean
+access-to-health-care_subnation,153.50708670655874,#date+year,#survey+id,mean
+child-mortality-rates_subnation,272.9978494623656,#date+year,#survey+id,mean
+covid-19-prevention_subnational,23.02512266928361,#date+year,#survey+id,mean
+dhs-quickstats_subnational_rwa,37.63470286133529,#date+year,#survey+id,mean
+fertility-rates_subnational_rwa,109.26936339522547,#date+year,#survey+id,mean
+health-insurance_subnational_rw,524.3637500000001,#date+year,#survey+id,mean
+immunization_subnational_rwa,103.99139784946236,#date+year,#survey+id,mean
+mens-fertility-and-family-plann,35.98299164768413,#date+year,#survey+id,mean
+symptoms-of-acute-respiratory-i,338.5290510948905,#date+year,#survey+id,mean

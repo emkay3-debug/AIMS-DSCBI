@@ -1,0 +1,326 @@
+indicator_name,aggregated_value,indicator_year,survey_name,aggregation_method
+Total fertility rate 15-49,5.2696969696969695,2000,RW2000DHS,mean
+General fertility rate,168.72727272727272,2000,RW2000DHS,mean
+Median age at first birth for women age 25-49,22.103571428571424,2000,RW2000DHS,mean
+Women who want no more children,40.468,2000,RW2000DHS,mean
+Mean ideal number of children for all women,4.141071428571428,2000,RW2000DHS,mean
+Total wanted fertility rate,4.057142857142858,2000,RW2000DHS,mean
+Married women currently using any method of contraception,29.667857142857144,2000,RW2000DHS,mean
+Married women currently using any modern method of contraception,22.244642857142853,2000,RW2000DHS,mean
+Unmet need for family planning,31.464285714285715,2000,RW2000DHS,mean
+Demand for family planning satisfied,45.15892857142857,2000,RW2000DHS,mean
+Demand for family planning satisfied by modern methods,32.68035714285715,2000,RW2000DHS,mean
+Median age at first marriage [Women]: 25-49,20.958823529411767,2000,RW2000DHS,mean
+"Median age at first marriage [Men]: 25-49(54,59)",23.628571428571426,1992,RW1992DHS,mean
+Median age at first sexual intercourse [Women]: 25-49,20.211764705882356,2000,RW2000DHS,mean
+Neonatal mortality rate,40.339285714285715,2000,RW2000DHS,mean
+Postneonatal mortality rate,45.07142857142857,2000,RW2000DHS,mean
+Infant mortality rate,85.5,2000,RW2000DHS,mean
+Child mortality rate,71.32142857142857,2000,RW2000DHS,mean
+Under-five mortality rate,149.625,2000,RW2000DHS,mean
+Antenatal care from a skilled provider,95.3671717171717,2000,RW2000DHS,mean
+Antenatal visits for pregnancy: 4+ visits,21.10833333333333,2000,RW2000DHS,mean
+Place of delivery: Health facility,45.32738095238095,2000,RW2000DHS,mean
+Assistance during delivery from a skilled provider,46.016666666666666,2000,RW2000DHS,mean
+Delivery by cesarean section,5.62156862745098,2000,RW2000DHS,mean
+BCG vaccination received,97.34821428571429,2000,RW2000DHS,mean
+DPT 3 vaccination received,90.79285714285713,2000,RW2000DHS,mean
+Polio 3 vaccination received,90.17857142857143,2000,RW2000DHS,mean
+Measles vaccination received,90.45,2000,RW2000DHS,mean
+Fully vaccinated (8 basic antigens),83.40357142857144,2000,RW2000DHS,mean
+Children with symptoms of ARI,20.148214285714285,2000,RW2000DHS,mean
+Children with ARI for whom advice or treatment was sought,47.82038834951455,2000,RW2000DHS,mean
+Children with fever in the last two weeks,31.119696969696964,2000,RW2000DHS,mean
+Children with fever for whom advice or treatment was sought,46.96766467065868,2000,RW2000DHS,mean
+Children with diarrhea,19.16339285714286,2000,RW2000DHS,mean
+Treatment of diarrhea: Either ORS or RHF,29.276785714285715,2000,RW2000DHS,mean
+Children stunted,47.59803921568626,2000,RW2000DHS,mean
+Children wasted,5.05686274509804,2000,RW2000DHS,mean
+Children underweight,17.449019607843137,2000,RW2000DHS,mean
+Median duration of any breastfeeding,26.050909090909087,2000,RW2000DHS,mean
+Median duration of exclusive breastfeeding,5.241176470588236,2000,RW2000DHS,mean
+Median duration of predominant breastfeeding,5.605882352941177,2000,RW2000DHS,mean
+Women with no education,23.651515151515152,2000,RW2000DHS,mean
+Women with secondary or higher education,15.568181818181818,2000,RW2000DHS,mean
+Men with no education,18.0625,2000,RW2000DHS,mean
+Men with secondary or higher education,16.1125,2000,RW2000DHS,mean
+Population using an improved water source,51.61060606060606,2000,RW2000DHS,mean
+Population with an improved sanitation facility,37.872727272727275,2000,RW2000DHS,mean
+Households with electricity,14.643939393939394,2000,RW2000DHS,mean
+"Prevalence of orphanhood: children under 18 who are orphans - mother, father or both dead",15.956862745098041,2000,RW2000DHS,mean
+"Median age at first sexual intercourse [Men]: 25-49(54,59)",21.229729729729733,2000,RW2000DHS,mean
+Feeding practices during diarrhea: ORT and continued feeding,11.29761904761905,2000,RW2000DHS,mean
+"Feeding practices during diarrhea: Continued feeding, and ORT and/or increased fluids",22.061904761904763,2000,RW2000DHS,mean
+Households with iodized salt,98.65625,2000,RW2000DHS,mean
+Mean Body Mass Index (BMI) for women,22.36756756756757,2000,RW2000DHS,mean
+Women who are thin according to BMI (<18.5),8.08108108108108,2000,RW2000DHS,mean
+Women who are overweight or obese according to BMI (>=25.0),16.543243243243243,2000,RW2000DHS,mean
+Comprehensive correct knowledge about AIDS [Women],44.883783783783784,2000,RW2000DHS,mean
+Comprehensive correct knowledge about AIDS [Men],44.089189189189185,2000,RW2000DHS,mean
+"Women reporting an STI, genital dicharge, or a sore or ulcer",6.972972972972973,2000,RW2000DHS,mean
+"Men reporting an STI, genital dicharge, or a sore or ulcer",4.0162162162162165,2000,RW2000DHS,mean
+Women who smoke cigarettes,0.5648648648648648,2000,RW2000DHS,mean
+Wife beating justified for at least one specific reason [Women],54.883783783783784,2000,RW2000DHS,mean
+Wife beating justified for at least one specific reason [Men],34.13243243243244,2000,RW2000DHS,mean
+Gender parity index for net primary school attendance,1.0265625,2000,RW2000DHS,mean
+Gender parity index for net secondary school attendance,1.0087499999999998,2000,RW2000DHS,mean
+Women who are literate,75.09148936170212,2000,RW2000DHS,mean
+Men who are literate,80.28108108108108,2000,RW2000DHS,mean
+Women who decide themselves how their earnings are used,28.65555555555555,2000,RW2000DHS,mean
+Children with any anemia,40.251999999999995,2005,RW2005DHS,mean
+Women with any anemia,18.316000000000003,2005,RW2005DHS,mean
+Households with at least one insecticide-treated mosquito net (ITN),67.36285714285714,2005,RW2005DHS,mean
+Households with at least one insecticide-treated mosquito net (ITN) for every two persons who stayed in the household the previous night,34.77428571428572,2005,RW2005DHS,mean
+Persons with access to an insecticide-treated mosquito net (ITN),53.214285714285715,2005,RW2005DHS,mean
+Population who slept under an insecticide-treated mosquito net (ITN) last night,49.63428571428572,2005,RW2005DHS,mean
+Children under 5 who slept under an insecticide-treated net (ITN),58.88,2005,RW2005DHS,mean
+Pregnant women who slept under an insecticide-treated net (ITN),60.914285714285725,2005,RW2005DHS,mean
+SP/Fansidar 3+ doses during pregnancy,2.1499999999999995,2005,RW2005DHS,mean
+Children with hemoglobin lower than 8.0 g/dl,2.412,2005,RW2005DHS,mean
+Knowledge of prevention of mother to child transmission of HIV [Women],83.36,2005,RW2005DHS,mean
+Knowledge of prevention of mother to child transmission of HIV [Men],80.35000000000001,2005,RW2005DHS,mean
+Accepting attitudes towards those living with HIV - Composite of 4 components [Women],49.873333333333335,2005,RW2005DHS,mean
+Accepting attitudes towards those living with HIV - Composite of 4 components [Men],58.580000000000005,2005,RW2005DHS,mean
+Condom use during higher-risk sex (with multiple partners) [Men],26.51875,2015,RW2015DHS,mean
+Women receiving an HIV test and receiving test results in the last 12 months,31.675000000000004,2005,RW2005DHS,mean
+Men receiving an HIV test and receiving test results in the last 12 months,29.459999999999997,2005,RW2005DHS,mean
+Men circumcised,25.66,2005,RW2005DHS,mean
+HIV prevalence among women,4.086666666666667,2005,RW2005DHS,mean
+HIV prevalence among men,2.4266666666666667,2005,RW2005DHS,mean
+HIV prevalence among general population,3.326666666666666,2005,RW2005DHS,mean
+Men who smoke cigarettes,10.27,2005,RW2005DHS,mean
+Ever experienced physical violence since age 15,35.545,2005,RW2005DHS,mean
+Women who ever experienced sexual violence,20.43,2005,RW2005DHS,mean
+Physical or sexual violence committed by husband/partner,41.040000000000006,2005,RW2005DHS,mean
+Physical or sexual violence committed by husband/partner in last 12 months,28.339999999999996,2005,RW2005DHS,mean
+Children registered,72.175,2005,RW2005DHS,mean
+Tetanus protection at birth,79.24166666666666,2008,RW2008DHS,mean
+Children consuming vitamin A supplements,84.63,2008,RW2008DHS,mean
+Mother's first postnatal checkup in the first two days after birth,44.14,2010,RW2010DHS,mean
+Newborn's first postnatal checkup in the first two days after birth,32.559999999999995,2010,RW2010DHS,mean
+Breastfed children 6-23 months fed both 4+ food groups and the minimum meal frequency,20.96666666666666,2010,RW2010DHS,mean
+Non-breastfed children 6-23 months with 3 IYCF practices,11.950000000000001,2010,RW2010DHS,mean
+Children 6-23 months with 3 IYCF practices,20.15333333333333,2010,RW2010DHS,mean
+Children 6-23 months that consumed foods rich in vitamin A in the last 24 hours,77.65333333333335,2010,RW2010DHS,mean
+Children 6-23 months that consumed foods rich in iron in the last 24 hours,22.38666666666666,2010,RW2010DHS,mean
+Children with fever who had blood taken from a finger or heel for testing,33.228,2010,RW2010DHS,mean
+Children who took any ACT,80.31818181818181,2010,RW2010DHS,mean
+Malaria prevalence according to RDT,5.455,2010,RW2010DHS,mean
+Malaria prevalence according to microscopy,2.5599999999999996,2010,RW2010DHS,mean
+Condom use during higher-risk sex (with multiple partners) [Women],47.88333333333333,2019,RW2019DHS,mean
+Antenatal care provider: Doctor,9.304545454545455,2000,RW2000DHS,mean
+Antenatal care provider: Nurse/midwife,85.18939393939394,2000,RW2000DHS,mean
+Antenatal care provider: Other health worker,0.11851851851851852,2000,RW2000DHS,mean
+Antenatal care provider: Traditional birth attendant,0.06315789473684211,2000,RW2000DHS,mean
+Antenatal care provider: Other,0.09849624060150379,2000,RW2000DHS,mean
+Antenatal care provider: Missing ,0.3113095238095238,2000,RW2000DHS,mean
+No antenatal care,4.187878787878788,2000,RW2000DHS,mean
+Antenatal care: Total,100.0,2000,RW2000DHS,mean
+Antenatal care from a skilled provider,95.3671717171717,2000,RW2000DHS,mean
+Number of women with a live birth (or stillbirth) in the last two (or three/five) years,585.6313131313132,2000,RW2000DHS,mean
+Number of women with a live birth (or stillbirth) in the last two (or three/five) years (unweighted),570.8282828282828,2000,RW2000DHS,mean
+Place of delivery: Public sector,43.93214285714286,2000,RW2000DHS,mean
+Place of delivery: At home,53.097023809523805,2000,RW2000DHS,mean
+Place of delivery: Other,1.1791666666666667,2000,RW2000DHS,mean
+Place of delivery: don't know or missing,0.43594771241830066,2000,RW2000DHS,mean
+Place of delivery: Total,100.0,2000,RW2000DHS,mean
+Place of delivery: Health facility,45.32738095238095,2000,RW2000DHS,mean
+Number of live births (or stillbirths) in the last two (or three/five) years,795.7142857142857,2000,RW2000DHS,mean
+Number of live births (or stillbirths) in the last two (or three/five) years (unweighted),774.1011904761905,2000,RW2000DHS,mean
+Assistance during delivery: Doctor,9.607738095238094,2000,RW2000DHS,mean
+Assistance during delivery: Nurse/midwife,35.55833333333334,2000,RW2000DHS,mean
+Assistance during delivery: Other health worker,4.671544715447155,2000,RW2000DHS,mean
+Assistance during delivery: Traditional birth attendant,8.175595238095237,2000,RW2000DHS,mean
+Assistance during delivery: Relative or other,27.804761904761904,2000,RW2000DHS,mean
+Assistance during delivery: No one,14.237499999999997,2000,RW2000DHS,mean
+Assistance during delivery: don't know or missing,0.44509803921568625,2000,RW2000DHS,mean
+Assistance during delivery: Total,100.0,2000,RW2000DHS,mean
+Assistance during delivery from a skilled provider,46.016666666666666,2000,RW2000DHS,mean
+Delivery by cesarean section,5.62156862745098,2000,RW2000DHS,mean
+Children with symptoms of ARI,20.148214285714285,2000,RW2000DHS,mean
+Number of children born in the last five (or three) years,512.7589285714286,2000,RW2000DHS,mean
+Number of children born in the last five (or three) years (unweighted),499.36607142857144,2000,RW2000DHS,mean
+Children with ARI for whom advice or treatment was sought,47.82038834951455,2000,RW2000DHS,mean
+Number of children with symptoms of ARI born in the last five (or three) years,148.95145631067962,2000,RW2000DHS,mean
+Number of children with symptoms of ARI born in the last five (or three) years (unweighted),132.25,2000,RW2000DHS,mean
+Children with fever for whom advice or treatment was sought,44.536363636363646,2000,RW2000DHS,mean
+Number of children with fever in the last two weeks,224.81060606060606,2000,RW2000DHS,mean
+Number of children with fever in the last two weeks (unweighted),216.2348484848485,2000,RW2000DHS,mean
+Treatment of diarrhea: Advice or treatment was sought,34.94732142857143,2000,RW2000DHS,mean
+Treatment of diarrhea: Oral rehydration solution (ORS),22.394642857142856,2000,RW2000DHS,mean
+Treatment of diarrhea: Recommended home fluids (RHF) at home,11.9375,2000,RW2000DHS,mean
+Treatment of diarrhea: Either ORS or RHF,29.276785714285715,2000,RW2000DHS,mean
+Treatment of diarrhea: Increased fluids,18.995535714285715,2000,RW2000DHS,mean
+Treatment of diarrhea: ORT or increased fluids,39.966964285714276,2000,RW2000DHS,mean
+"Treatment of diarrhea: No ORS, RHF or increased fluids",60.03303571428571,2000,RW2000DHS,mean
+Treatment of diarrhea: Antibiotics,6.414705882352941,1992,RW1992DHS,mean
+Treatment of diarrhea: Intravenous solution,0.34117647058823536,2000,RW2000DHS,mean
+Treatment of diarrhea: Home remedy - other,40.112500000000004,2000,RW2000DHS,mean
+Treatment of diarrhea: No treatment,33.018750000000004,2000,RW2000DHS,mean
+Treatment of diarrhea: don't know or missing,0.86078431372549,2000,RW2000DHS,mean
+Place of delivery: Private sector,1.857936507936508,2000,RW2000DHS,mean
+Child took antimalarial drugs for fever,8.978846153846153,2000,RW2000DHS,mean
+Assistance during delivery: Auxiliary nurse/midwife,2.228333333333333,2008,RW2008DHS,mean
+Children with symptoms of ARI who received antibiotics,38.461290322580645,2008,RW2008DHS,mean
+Child took antibiotic drugs for fever,31.445000000000004,2008,RW2008DHS,mean
+Treatment of diarrhea: Zinc supplements,17.255,2008,RW2008DHS,mean
+Treatment of diarrhea: Antimotility drugs,1.8175000000000001,2008,RW2008DHS,mean
+Treatment of diarrhea: Injection,0.9485714285714284,2008,RW2008DHS,mean
+Antenatal care provider: Auxiliary nurse/midwife,2.306666666666666,2010,RW2010DHS,mean
+Provider of mothers' first postnatal checkup: Doctor/nurse/midwife,43.313333333333325,2010,RW2010DHS,mean
+Provider of mothers' first postnatal checkup: Auxiliary nurse/midwife,0.7333333333333333,2010,RW2010DHS,mean
+No postnatal checkup for mother within first two days of birth,55.87333333333333,2010,RW2010DHS,mean
+Provider of mothers' first postnatal checkup: Total,100.0,2010,RW2010DHS,mean
+Number of mothers,645.4,2010,RW2010DHS,mean
+Number of mothers (unweighted),630.8666666666667,2010,RW2010DHS,mean
+Provider of newborns' first postnatal checkup: Doctor/nurse/midwife,32.07333333333333,2010,RW2010DHS,mean
+Provider of newborns' first postnatal checkup: Auxiliary nurse/midwife,0.31333333333333335,2010,RW2010DHS,mean
+No postnatal checkup for newborn within first two days of birth,67.45333333333333,2010,RW2010DHS,mean
+Provider of newborns' first postnatal checkup: Total,100.0,2010,RW2010DHS,mean
+Number of newborns,645.4,2010,RW2010DHS,mean
+Number of newborns (unweighted),630.8666666666667,2010,RW2010DHS,mean
+Provider of mothers' first postnatal checkup: Community health worker,0.09,2015,RW2015DHS,mean
+Provider of mothers' first postnatal checkup: Other health worker,0.1,2015,RW2015DHS,mean
+Provider of newborns' first postnatal checkup: Community health worker,0.10999999999999999,2015,RW2015DHS,mean
+Provider of newborns' first postnatal checkup: Other health worker,0.12,2015,RW2015DHS,mean
+Provider of newborns' first postnatal checkup: Traditional birth attendant,0.05,2015,RW2015DHS,mean
+Neonatal mortality rate,40.339285714285715,2000,RW2000DHS,mean
+Postneonatal mortality rate,45.07142857142857,2000,RW2000DHS,mean
+Infant mortality rate,85.5,2000,RW2000DHS,mean
+Child mortality rate,71.32142857142857,2000,RW2000DHS,mean
+Under-five mortality rate,149.625,2000,RW2000DHS,mean
+Stillbirths,22.972972972972972,2000,RW2000DHS,mean
+Early neonatal deaths,30.43243243243243,2000,RW2000DHS,mean
+Perinatal mortality rate (5 years),39.86486486486486,2000,RW2000DHS,mean
+Number of pregnancies of 7+ months duration,1387.7297297297298,2000,RW2000DHS,mean
+Number of pregnancies of 7+ months duration (unweighted),1356.837837837838,2000,RW2000DHS,mean
+Population using an improved water source,51.61060606060606,2000,RW2000DHS,mean
+Population using water piped into dwelling,1.0484848484848488,2000,RW2000DHS,mean
+Population using water piped into yard/plot,6.001515151515152,2000,RW2000DHS,mean
+Population using a public tap/standpipe,26.846969696969694,2000,RW2000DHS,mean
+Population with improved water source on the premises,8.32878787878788,2000,RW2000DHS,mean
+Population with basic water service,38.513636363636365,2000,RW2000DHS,mean
+Population with limited water service,13.100000000000001,2000,RW2000DHS,mean
+Population with water more than 30 minutes away round trip,31.765151515151516,2000,RW2000DHS,mean
+Population with an improved sanitation facility,37.872727272727275,2000,RW2000DHS,mean
+Population with an unimproved sanitation facility,58.871212121212125,2000,RW2000DHS,mean
+Population using open defecation,3.2515151515151515,2000,RW2000DHS,mean
+Households with one room for sleeping,27.04615384615385,1992,RW1992DHS,mean
+Mean number of persons per sleeping room,2.1307692307692307,1992,RW1992DHS,mean
+Mean number of household members,4.506060606060607,2000,RW2000DHS,mean
+Population with basic sanitation service,38.20961538461539,2000,RW2000DHS,mean
+Population with limited sanitation service,9.534615384615384,2000,RW2000DHS,mean
+Population with a place for handwashing was observed,35.779999999999994,2010,RW2010DHS,mean
+"Population with a basic handwashing facility, with soap and water available",16.3,2010,RW2010DHS,mean
+"Population with a limited handwashing facility, lacking soap and/or water",31.166666666666668,2010,RW2010DHS,mean
+Total fertility rate 15-49,5.2696969696969695,2000,RW2000DHS,mean
+Married women currently using any method of contraception,29.667857142857144,2000,RW2000DHS,mean
+Married women currently using any modern method of contraception,22.244642857142853,2000,RW2000DHS,mean
+Unmet need for family planning,31.464285714285715,2000,RW2000DHS,mean
+Demand for family planning satisfied by modern methods,32.68035714285715,2000,RW2000DHS,mean
+Median age at first marriage [Women]: 25-49,20.958823529411767,2000,RW2000DHS,mean
+Median age at first sexual intercourse [Women]: 25-49,20.211764705882356,2000,RW2000DHS,mean
+Infant mortality rate,85.5,2000,RW2000DHS,mean
+Under-five mortality rate,149.625,2000,RW2000DHS,mean
+Place of delivery: Health facility,45.32738095238095,2000,RW2000DHS,mean
+Fully vaccinated (8 basic antigens),83.40357142857144,2000,RW2000DHS,mean
+Treatment of diarrhea: Either ORS or RHF,29.276785714285715,2000,RW2000DHS,mean
+Children stunted,47.59803921568626,2000,RW2000DHS,mean
+Children wasted,5.05686274509804,2000,RW2000DHS,mean
+Children underweight,17.449019607843137,2000,RW2000DHS,mean
+Median duration of exclusive breastfeeding,5.241176470588236,2000,RW2000DHS,mean
+Women with secondary or higher education,15.568181818181818,2000,RW2000DHS,mean
+Households with electricity,14.643939393939394,2000,RW2000DHS,mean
+Women who are literate,75.09148936170212,2000,RW2000DHS,mean
+Children under 5 who slept under an insecticide-treated net (ITN),58.88,2005,RW2005DHS,mean
+Women receiving an HIV test and receiving test results in the last 12 months,31.675000000000004,2005,RW2005DHS,mean
+Men receiving an HIV test and receiving test results in the last 12 months,29.459999999999997,2005,RW2005DHS,mean
+HIV prevalence among women,4.086666666666667,2005,RW2005DHS,mean
+HIV prevalence among men,2.4266666666666667,2005,RW2005DHS,mean
+HIV prevalence among general population,3.326666666666666,2005,RW2005DHS,mean
+Physical or sexual violence committed by husband/partner,41.040000000000006,2005,RW2005DHS,mean
+Age specific fertility rate: 15-19,48.36363636363637,2000,RW2000DHS,mean
+Age specific fertility rate: 20-24,207.56060606060606,2000,RW2000DHS,mean
+Age specific fertility rate: 25-29,254.75757575757575,2000,RW2000DHS,mean
+Age specific fertility rate: 30-34,235.1969696969697,2000,RW2000DHS,mean
+Age specific fertility rate: 35-39,176.6153846153846,2000,RW2000DHS,mean
+Age specific fertility rate: 40-44,100.29032258064517,2000,RW2000DHS,mean
+Age specific fertility rate: 45-49,22.0,2000,RW2000DHS,mean
+Total fertility rate 15-49,5.2696969696969695,2000,RW2000DHS,mean
+Total fertility rate 15-44,5.133333333333334,2000,RW2000DHS,mean
+General fertility rate,168.72727272727272,2000,RW2000DHS,mean
+Crude birth rate,37.383333333333326,2000,RW2000DHS,mean
+Total wanted fertility rate,4.057142857142858,2000,RW2000DHS,mean
+Social security health insurance [Women],3.78,2019,RW2019DHS,mean
+Other employer-base health insurance [Women],0.08,2019,RW2019DHS,mean
+Mutual health organzation or community-base health insurance [Women],77.24,2019,RW2019DHS,mean
+Privately purchased commercial insurance [Women],0.78,2019,RW2019DHS,mean
+Other health insurance [Women],1.3,2019,RW2019DHS,mean
+No health insurance [Women],16.919999999999998,2019,RW2019DHS,mean
+Number of women,2926.8,2019,RW2019DHS,mean
+Number of women (unweighted),2926.8,2019,RW2019DHS,mean
+Social security health insurance [Men],4.4799999999999995,2019,RW2019DHS,mean
+Other employer-base health insurance [Men],0.32000000000000006,2019,RW2019DHS,mean
+Mutual health organzation or community-base health insurance [Men],77.5,2019,RW2019DHS,mean
+Privately purchased commercial insurance [Men],0.86,2019,RW2019DHS,mean
+Other health insurance [Men],0.9399999999999998,2019,RW2019DHS,mean
+No health insurance [Men],16.22,2019,RW2019DHS,mean
+Number of men,1169.2,2019,RW2019DHS,mean
+Number of men (unweighted),1166.6,2019,RW2019DHS,mean
+BCG vaccination received,97.34821428571429,2000,RW2000DHS,mean
+DPT 1 vaccination received,96.69107142857145,2000,RW2000DHS,mean
+DPT 2 vaccination received,94.85178571428571,2000,RW2000DHS,mean
+DPT 3 vaccination received,90.79285714285713,2000,RW2000DHS,mean
+Polio 1 vaccination received,97.17857142857143,2000,RW2000DHS,mean
+Polio 2 vaccination received,95.42678571428571,2000,RW2000DHS,mean
+Polio 3 vaccination received,90.17857142857143,2000,RW2000DHS,mean
+Measles vaccination received,90.45,2000,RW2000DHS,mean
+Fully vaccinated (8 basic antigens),83.40357142857144,2000,RW2000DHS,mean
+Received no vaccinations,1.9303571428571427,2000,RW2000DHS,mean
+Number of children 12-23 months,217.96428571428572,2000,RW2000DHS,mean
+Number of children 12-23 months (unweighted),212.23214285714286,2000,RW2000DHS,mean
+Polio 0 vaccination received,79.96904761904761,2000,RW2000DHS,mean
+Hepatitis 1 vaccination received,99.53999999999999,2019,RW2019DHS,mean
+Hepatitis 2 vaccination received,99.36,2019,RW2019DHS,mean
+Hepatitis 3 vaccination received,98.88000000000001,2019,RW2019DHS,mean
+Haemophilus influenza type b 1 vaccination received,99.53999999999999,2019,RW2019DHS,mean
+Haemophilus influenza type b 2 vaccination received,99.36,2019,RW2019DHS,mean
+Haemophilus influenza type b 3 vaccination received,98.88000000000001,2019,RW2019DHS,mean
+Knowledge of any method of contraception among married men,99.41250000000001,2000,RW2000DHS,mean
+Knowledge of any modern method of contraception amonth married men,99.16428571428573,2000,RW2000DHS,mean
+Number of wives: One wife,95.32678571428572,2000,RW2000DHS,mean
+Number of wives: Two or more wives,4.476785714285715,2000,RW2000DHS,mean
+Median age at first marriage [Men]: 20-24,17.0,1992,RW1992DHS,mean
+Median age at first marriage [Men]: 25-29,23.530303030303035,1992,RW1992DHS,mean
+Median age at first marriage [Men]: 30-34,24.893999999999995,2000,RW2000DHS,mean
+Median age at first marriage [Men]: 35-39,24.90392156862745,2000,RW2000DHS,mean
+Median age at first marriage [Men]: 40-44,24.65294117647059,2000,RW2000DHS,mean
+Median age at first marriage [Men]: 45-49,24.10196078431372,2000,RW2000DHS,mean
+Median age at first marriage [Men]: 50-54,23.90212765957447,2000,RW2000DHS,mean
+"Median age at first marriage [Men]: 25-49(54,59)",23.628571428571426,1992,RW1992DHS,mean
+Men who want no more children,45.95652173913044,2000,RW2000DHS,mean
+Family planning messages on the radio [Men],59.694594594594605,2000,RW2000DHS,mean
+Family planning messages on television [Men],9.670270270270269,2000,RW2000DHS,mean
+Family planning messages in newspapers or magazines [Men],11.364864864864865,2000,RW2000DHS,mean
+Family planning messages in none of these three media [Men],39.199999999999996,2000,RW2000DHS,mean
+Median age at first sexual intercourse [Men]: 20-24,19.071428571428573,2000,RW2000DHS,mean
+Median age at first sexual intercourse [Men]: 25-29,21.200000000000003,2000,RW2000DHS,mean
+Median age at first sexual intercourse [Men]: 30-34,21.397297297297296,2000,RW2000DHS,mean
+Median age at first sexual intercourse [Men]: 35-39,21.448648648648646,2000,RW2000DHS,mean
+Median age at first sexual intercourse [Men]: 40-44,21.483783783783785,2000,RW2000DHS,mean
+Median age at first sexual intercourse [Men]: 45-49,21.38648648648649,2000,RW2000DHS,mean
+Median age at first sexual intercourse [Men]: 50-54,20.870270270270268,2000,RW2000DHS,mean
+"Median age at first sexual intercourse [Men]: 20-49(54,59)",19.799999999999997,2000,RW2000DHS,mean
+"Median age at first sexual intercourse [Men]: 25-49(54,59)",21.229729729729733,2000,RW2000DHS,mean
+Recent sexual activity [Men]: Active 4 Weeks,47.30270270270271,2000,RW2000DHS,mean
+Recent sexual activity [Men]: Within the last year,9.435135135135136,2000,RW2000DHS,mean
+Recent sexual activity [Men]: One or more years ago,12.894594594594594,2000,RW2000DHS,mean
+Recent sexual activity [Men]: Never had sex,30.272972972972976,2000,RW2000DHS,mean
+Men circumcised,25.66,2005,RW2005DHS,mean
+Children with symptoms of ARI,20.148214285714285,2000,RW2000DHS,mean
+Number of children born in the last five (or three) years,874.1517857142857,2000,RW2000DHS,mean
+Number of children born in the last five (or three) years (unweighted),852.3125,2000,RW2000DHS,mean
+Children with ARI for whom advice or treatment was sought,47.82038834951455,2000,RW2000DHS,mean
+Number of children with symptoms of ARI born in the last five (or three) years,148.95145631067962,2000,RW2000DHS,mean
+Number of children with symptoms of ARI born in the last five (or three) years (unweighted),132.25,2000,RW2000DHS,mean
+Children with symptoms of ARI who received antibiotics,38.461290322580645,2008,RW2008DHS,mean
